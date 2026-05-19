@@ -1,5 +1,7 @@
 # Codex Session Restore
 
+[中文说明](README.zh-CN.md)
+
 Recover local Codex Desktop sessions that still exist on disk but no longer open correctly in the Codex App.
 
 This skill is useful when Codex reports that it cannot restore a conversation, when a session ID exists under `.codex/sessions` or `.codex/archived_sessions`, or when the local App index/database no longer points to the conversation correctly.
