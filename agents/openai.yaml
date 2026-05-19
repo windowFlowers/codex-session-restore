@@ -1,0 +1,3 @@
+display_name: Codex Session Restore
+short_description: Recover local Codex Desktop sessions into new App-visible conversations.
+default_prompt: Restore these Codex session IDs into new local App conversations.
